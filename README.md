@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NdukaRuth
 - 👀 I’m interested in Tech and love writing
-- 🌱 I’m currently learning and improving my skills in Javascript and Phython..
+- 🌱 I’m currently learning and improving my skills in Javascript and Python..
 - 💞️ I’m looking to collaborate on any project within this space by:
 - Creating professional contents for :
 - Web pages
