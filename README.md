@@ -7,7 +7,7 @@
 - Blogs
 - Software documentations
 - APi Documentations 
-- Assiting with project managements and team collaborations where necessary
+- Assit with Project Management and team collaborations where necessary
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/chizaram-ruth-n-94193b184/
 - Email:  ruthnduka14@outlook.com , ruthnduka14@gmail.com
